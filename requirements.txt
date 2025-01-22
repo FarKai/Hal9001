@@ -1,0 +1,7 @@
+soundfile
+transformers
+torch
+huggingface_hub
+pyaudio
+SpeechRecognition
+git+https://github.com/openai/whisper.git
