@@ -1,5 +1,7 @@
 soundfile
 transformers
+ChatTTS
+sounddevice
 torch
 huggingface_hub
 pyaudio
